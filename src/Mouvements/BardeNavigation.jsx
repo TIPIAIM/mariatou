@@ -154,7 +154,7 @@ export default function BardeNavigation() {
             alt="Logo du Cabinet"
             className=" font-serif font-extrabold text-2xl"
           />
-          AOD AVOCATS SCPA fflklkmdfmldfml
+          AOD AVOCATS SCPA
         </Logo>
 
         {/* Bouton pour le menu hamburger */}
